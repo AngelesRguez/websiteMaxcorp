@@ -369,6 +369,16 @@ h1#Text1 {
         justify-content: center;
 }
 
+@media (max-width: 991px){
+    .dentro-app {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+    }
+
 .imagenes{
     border: 1px solid #ccc;
 }
