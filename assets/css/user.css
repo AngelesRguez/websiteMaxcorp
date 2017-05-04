@@ -342,6 +342,33 @@ h1#Text1 {
     }
 }
 
+@media (max-width: 767px){
+    .index-container .title-primary {
+        text-align: center;
+    }
+}
+@media (max-width: 991px){
+    .web-container .btn-responsive {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 593px){
+    .imgn-responsive {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: -57px;
+        font-size: 12px;
+
+
+    }
+
+    .btn-responsive {
+        display: flex;
+        justify-content: center;
+}
+
 .imagenes{
     border: 1px solid #ccc;
 }
@@ -350,3 +377,9 @@ h1#Text1 {
     background-color: #bf1e2e !important;
     opacity: 0.7;
 }
+
+.tam{
+    width: 250px;
+}
+
+    
