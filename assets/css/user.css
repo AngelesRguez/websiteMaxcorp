@@ -99,11 +99,11 @@
 .cuadro{
     background-color: #bf1e2e;
     color: white;
-    padding: 30px 50px;
-    border: 2px solid #bf1e2e;
-    border-radius: 25px;
-    height: calc(100vh - 609px);
-}
+    /*padding: 30px 50px;*/
+    /*border: 2px solid #bf1e2e;*/
+    /*border-radius: 25px;*/
+/*    height: calc(100vh - 609px);
+*/}
 .cuadro{
 
 }
